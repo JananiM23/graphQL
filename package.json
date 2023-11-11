@@ -1,0 +1,16 @@
+{
+  "name": "backendgraphql",
+  "version": "1.0.0",
+  "description": "basic setup of graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "janani",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1"
+  }
+}
